@@ -99,8 +99,8 @@
 }
 #services .box{
     border: 3px solid red;
-    height: 431px;
-    width: 591px;
+    overflow: auto;
+    min-height: 480px;
     margin: 33px;
     border-radius: 15px;
     background-color: rgb(233, 233, 233);
